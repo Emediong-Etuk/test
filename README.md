@@ -6,6 +6,10 @@ some test
 
 watch tutorial on youtube
 
+## Local development
+
+Open Index.html in your browser.
+
 ## Local
 
 Developing a machine
